@@ -21,7 +21,7 @@ import java.util.Scanner;
 	        Scanner scan = new Scanner(System.in);
 	        
 	        //Player1 prompt
-	        System.out.println("Player 1: Choose fire, scissors, or paper: ");
+	        System.out.println("Player 1: Choose rock, scissors, or paper: ");
 	        //Player1 Input
 	        Player1Input = scan.nextLine();
 	        Player1Input = Player1Input.toLowerCase();
